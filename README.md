@@ -1,4 +1,4 @@
-- 💪🏼 Working on Tailwind [ Razorpay Clone](https://github.com/)
+- 💪🏼 Working on Tailwind [ Razorpay Clone, Discord Clone](https://github.com/)
 
 - 🌱 I’m currently learning **Reactjs & Nextjs**
 
