@@ -1,18 +1,3 @@
-
-
-![SVG Banners](https://svg-banners.vercel.app/api?type=textBox&text1=Hindol%20Roy🤠&text2=💖%20A%20Passionate%20Coder,Web%20Developer%20and%20Debugger&width=900&height=400)
-
-
-<img height="auto" src="https://komarev.com/ghpvc/?username=technicalranjitofficial&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
-
-
-
-<p align="left"> <img width="900" height="110" src="https://readme-jokes.vercel.app/api" alt ="tr"/> </p>
-
-
-
-<p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=technicalranjitofficial&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
-
 - 💪🏼 Working on Tailwind [ Razorpay Clone](https://github.com/)
 
 - 🌱 I’m currently learning **Reactjs & Nextjs**
