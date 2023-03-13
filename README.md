@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **Coding & Web Development**
 
-- 😂 Func Fact **Bats are the only mammal that can actually fly.**
+- 😂 Fun Fact **Bats are the only mammal that can actually fly.**
 
 - 📫 How to reach me **hindolroy.2306@gmail.com**
 
