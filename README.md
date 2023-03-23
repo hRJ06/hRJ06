@@ -1,4 +1,4 @@
-- 💪🏼 Working on Tailwind [ Weather Application ](https://github.com/)
+- 💪🏼 Working on [React](https://github.com/)
 
 - 🌱 I’m currently learning **Reactjs & Nextjs**
 
