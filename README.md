@@ -1,6 +1,6 @@
 - 💪🏼 Working on [React](https://github.com/)
 
-- 🌱 I’m currently learning **Reactjs & Nextjs**
+- 🌱 I’m currently learning **Expressjs & MongoDB**
 
 - 💬 Ask me about **Coding & Web Development**
 
