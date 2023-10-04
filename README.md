@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hindol Roy</h1>
 
 - 💪🏼 Working on **Spring Boot**
+  
 - 🌱 I’m currently learning **Spring Security & MySQL**
+  
 - 💬 Ask me about **MERN & Database**
+  
 - Reach me at [📧](mailto:hindolroy.2306@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
