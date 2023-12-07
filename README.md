@@ -15,7 +15,7 @@ const hindol = {
   code: [Javascript, Typescript, HTML, CSS, Java, Python],
   tools: [React, Redux, Next, Node, Express, Styled-Components, Flask, Spring],
   database: [MySQL, MongoDB],
-  challenge: "Bringing the Python Out of Me to build for the future!"
+  challenge: "Bringing the Geek Out of Me to build for the future!"
 }
 ```
 
