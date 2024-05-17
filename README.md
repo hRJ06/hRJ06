@@ -1,6 +1,6 @@
 <h2> Hi, I'm Hindol Roy! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3J3ZnFpaXJ5dzVmeXVlcXMxNXMyMzNubHoweTIzbHk5MTh0Z2wxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/m8KKYSFPrmAm3vMgYR/giphy.gif width="230">
-<p><em>Undergradute at <a href="https://kiit.ac.in/">KIIT University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Upcoming SEP Intern at <a href="https://www.jpmorgan.com/global">JP Morgan Chase & Co.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Undergradute at <a href="https://kiit.ac.in/">KIIT University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>SEP Intern at <a href="https://www.jpmorgan.com/global">JP Morgan Chase & Co.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-hindolroy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/hindol-roy/)
